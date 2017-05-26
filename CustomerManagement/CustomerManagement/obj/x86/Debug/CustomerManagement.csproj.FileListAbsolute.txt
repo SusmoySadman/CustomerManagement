@@ -1,0 +1,17 @@
+c:\users\student\documents\visual studio 2010\Projects\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.exe
+c:\users\student\documents\visual studio 2010\Projects\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.pdb
+c:\users\student\documents\visual studio 2010\Projects\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.Properties.Resources.resources
+c:\users\student\documents\visual studio 2010\Projects\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2010\Projects\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.exe
+c:\users\student\documents\visual studio 2010\Projects\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.pdb
+c:\users\student\documents\visual studio 2010\Projects\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.Form1.resources
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.exe
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.pdb
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\bin\Debug\Database1.sdf
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.exe.config
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.exe
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\bin\Debug\CustomerManagement.pdb
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.csprojResolveAssemblyReference.cache
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.Form1.resources
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.Properties.Resources.resources
+C:\Users\SUSMOY\Desktop\CustomerManagement\CustomerManagement\obj\x86\Debug\CustomerManagement.csproj.GenerateResource.Cache
